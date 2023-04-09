@@ -1,2 +1,2 @@
-# Music Gere Classification using KNN
+# Music Genre Classification using KNN
  
